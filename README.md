@@ -104,10 +104,5 @@ To visualize the decision tree, use the `train_and_visualize.py` script to gener
 
 ```sh
 dot -Tpng music-recommender.dot -o music-recommender.png
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
