@@ -11,4 +11,6 @@ new_data = pd.DataFrame([[21, 1], [22, 0]], columns=['age', 'gender'])
 
 # Make predictions
 predictions = model.predict(new_data)
+
+# Print predictions
 print(predictions)
